@@ -119,6 +119,31 @@
     border: 1px solid #7c3AED;
     padding: 0.5rem;
     text-decoration: none;
-    margin-left: 35%;
-   border-top-right-radius: 0.9rem;    
+    margin-left: 45%;
+    color: #7c3AED;
+   border-top-right-radius: 0.9rem;
+  }
+  footer
+  {
+    background-color: #7c3AED;
+    height: 99px;
+    /* margin-top: 10px; */
+    border-bottom-left-radius: 1rem;
+    padding: 1rem;
+    padding-left: 40%
+  /* line-height:20px; */
+  }
+  .div4
+  {
+    color: white;
+    font-size: 20px;
+  }
+  .first
+  {
+    padding-top: 50px;
+    padding-left: 1%;
+    color: white;
+    text-decoration: none;
+    /* padding-left: 20px; */
+
   }
