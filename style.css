@@ -1,0 +1,124 @@
+
+  .navigation
+  {
+    background-color: #7c3AED;
+    height: 99px;
+    /* margin-top: 10px; */
+    border-bottom-left-radius: 1rem;
+    padding: 1rem;
+    padding-left: 80%
+
+  }
+
+
+
+  .active
+  {
+           /* padding-top: 50% */
+      padding-left: 50px;
+      color: white;
+      text-decoration: none;
+
+  }
+
+
+  .div1
+  {
+      margin-left: 10px; */
+      margin-top: 10px;
+     /* margin-left: 20px; */
+      color:#7c3AED;
+      font-size: 20px;
+  }
+
+
+  .img1
+  {
+     max-width: 350px;
+     display: block;
+     padding: 2rem;
+     padding-top: 5rem;
+     margin-left:36%;;
+
+  }
+
+
+
+  .heading
+  {
+     margin-left:30%;;
+  }
+
+
+  span
+
+  {
+      color: #7c3AED;
+  }
+
+
+  .white
+  {
+     margin-left:42%;;
+     margin-top: 10PX;
+    font-size: 27px;
+       /* font-family:courier; */
+  }
+
+
+  .log1
+  {
+    margin-left: 30%;
+
+    font-family:verdana;
+  }
+
+
+
+  .section1
+  {
+    background-color:#D5D8DC
+
+
+  }
+
+
+
+  .log2
+  {
+    margin-left: 30%;
+
+   font-family:verdana;
+  }
+
+
+  .link-primary
+  {
+    background-color: #7c3AED;
+    padding: 0.5rem;
+    text-decoration: none;
+    color: white;
+    margin-left: 35%;
+    border-top-right-radius: 0.9rem;
+
+  }
+  .log3
+  {
+
+      margin-left: 30%;
+
+     font-family:verdana;
+  }
+  .div3
+  {
+        background-color:#D5D8DC
+      /* padding-top:20px; */
+  }
+  .blog1
+  {
+    border: 1px solid #7c3AED;
+    padding: 0.5rem;
+    text-decoration: none;
+    margin-left: 35%;
+   border-top-right-radius: 0.9rem;    
+  }
