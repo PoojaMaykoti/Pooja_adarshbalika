@@ -55,6 +55,11 @@ body
 
   }
 
+  .hero-heading
+  {
+      margin-left:39%;
+  }
+
 
 
   .heading
@@ -62,16 +67,20 @@ body
      margin-left:40%;;
   }
 
-
-  span
+/*
+  .span1
 
   {
       color: black;
       margin-left:39%;
       font-size: 27px;
-  }
+  } */
 
-
+.span1
+{
+   margin-left: 39%;
+   font-size: 27px;
+}
   .white
   {
      margin-left:30%;;
