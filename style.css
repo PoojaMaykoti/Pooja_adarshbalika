@@ -1,4 +1,20 @@
 
+
+
+
+
+
+
+body
+{
+    background-color: #F9E79F ;
+}
+
+
+
+
+
+
   .navigation
   {
     background-color: #7c3AED;
@@ -59,7 +75,7 @@
 
   .white
   {
-     margin-left:42%;;
+     margin-left:30%;;
      margin-top: 10PX;
     font-size: 27px;
        /* font-family:courier; */
@@ -98,7 +114,7 @@
     padding: 0.5rem;
     text-decoration: none;
     color: white;
-    margin-left: 35%;
+    margin-left: 45%;
     border-top-right-radius: 0.9rem;
 
   }
@@ -145,5 +161,5 @@
     color: white;
     text-decoration: none;
     /* padding-left: 20px; */
-
+      font-size: 20px;
   }
