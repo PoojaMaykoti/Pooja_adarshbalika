@@ -7,7 +7,8 @@
 
 body
 {
-    background-color: #EBDEF0  ;
+    background-color: #FEF5E7  ;
+     font-family:georgia;
 }
 
 
@@ -17,7 +18,7 @@ body
 
   .navigation
   {
-    background-color:#A569BD  ;
+    background-color:#DC7633  ;
     height: 99px;
 
     border-bottom-left-radius: 1rem;
@@ -27,15 +28,25 @@ body
 
 
 
-  .active
-  {
-           /* padding-top: 50% */
-      padding-left: 280PX;;
- font-size: 20PX;
-      color: white;
-      text-decoration: none;
 
-  }
+
+.active
+{
+  margin-left: 26%;
+  font-size: 30PX;
+  text-decoration: none;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
 
 
   .div1
@@ -49,7 +60,7 @@ body
   {
      max-width: 350px;
      display: block;
-     padding: 2rem;
+     padding: 4rem;
      padding-top: 5rem;
      margin-left:36%;;
 
@@ -57,7 +68,9 @@ body
 
   .hero-heading
   {
-      margin-left:39%;
+      margin-left:43%;
+      font-size: 40px;
+      /* color: #EDBB99 ; */
   }
 
 
@@ -67,100 +80,122 @@ body
      margin-left:40%;;
   }
 
-/*
-  .span1
 
-  {
-      color: black;
-      margin-left:39%;
-      font-size: 27px;
-  } */
 
 .span1
 {
    margin-left: 39%;
    font-size: 27px;
 }
+
+
+
+
   .white
   {
      margin-left:30%;;
      margin-top: 10PX;
     font-size: 27px;
-    /* line-height: 30px; */
-       /* font-family:courier; */
+    color: #873600;
+
   }
 
 
   .log1
   {
-    margin-left: 30%;
+    /* margin-left: 30%; */
     line-height: 30px;
     font-family:verdana;
+    font-size: 20px;
   }
 
 
 
   .section1
   {
-    background-color:#F5B7B1    ;
- padding-top: 20px;
- height: 280px;
+
+  padding-top: 10px;
+   margin-left: 90px;
+   padding-left: 10px;
+   height: 340px;
+   float: left;
+   /* border-radius: 10px; */
+   /* border: 1px  solid black; */
 
   }
+.section2
+{
+  float: left;
+  /* border: 1px solid black; */
+  height: 340px;
+  padding-left: 10px;
+  /* border-radius: 10px; */
+  margin-left: 20px;
+}
 
+.div3
+{
+    border: 1px solid black
+}
 
-
-  .log2
+.log2
   {
-    margin-left: 30%;
+    /* margin-left: 30%; */
     line-height: 30px;
-   font-family:verdana;
+   /* font-family:verdana; */
+    font-size: 20px;
   }
 
 
   .link-primary
   {
-    background-color:#6C3483  ;
-    padding: 0.5rem;
+    background-color:#DC7633   ;
+    padding:1.0rem;
     text-decoration: none;
     color: white;
-    margin-left: 45%;
+    margin-left: 30%;
     border-top-right-radius: 0.9rem;
-
+   font-size: 20px;
   }
   .log3
   {
 
       margin-left: 30%;
       line-height: 30px;
-     font-family:verdana;
-  }
-  .div3
-  {
-    background-color:#F5B7B1    ;
-    height: 140px;
-    padding-top: 20px;
+     /* font-family:verdana;/ */
+       font-size: 20px;
   }
 
-  .blog1
-  {
-    border: 1px solid #7c3AED;
-    padding: 0.5rem;
-    text-decoration: none;
-    margin-left: 45%;
-    color: #7c3AED;
-        line-height: 30px;
-   border-top-right-radius: 0.9rem;
-  }
+
+.section3
+{
+  /* border: 1px solid black; */
+/* margin-left: 40px; */
+}
+
+
+.blog1
+{
+
+  margin-left: 100px;
+  background-color: #DC7633  ;
+  padding:0.9rem;
+  text-decoration: none;
+  color: white;
+
+  border-top-right-radius: 0.9rem;
+}
+
+
   footer
   {
-    background-color: #A569BD ;
+    background-color: #FF7F50 ;
     height: 99px;
-    /* margin-top: 10px; */
+
     border-bottom-left-radius: 1rem;
     padding: 1rem;
     padding-left: 40%
-  /* line-height:20px; */
+
   }
   .div4
   {
@@ -169,10 +204,62 @@ body
   }
   .first
   {
-    padding-top: 50px;
+    padding-top: 60px;
     padding-left: 1%;
     color: white;
     text-decoration: none;
-    /* padding-left: 20px; */
-      font-size: 20px;
+
+    font-size: 30px;
   }
+
+  .span2
+  {
+    color: #873600;
+  }
+ .Ps-heading
+  {
+    margin-left: 43%;
+  }
+  small
+  {
+    margin-left: 45%;
+  }
+#first-para
+  {
+    margin-left: 30%;
+    font-size: 20px;
+
+  }
+#active-contianer
+{
+
+    margin-left: 40%;
+    padding-left: 40px;
+    background-color: #DC7633 ;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 0.8rem;
+    text-decoration: none;
+    color:white;
+
+}
+#active-contianer1
+{
+    border: 1px solid #DC7633;
+        border-radius: 15px;
+        font-size: 20px;
+       padding: 0.8rem;
+        text-decoration: none;
+        color: #DC7633;
+
+}
+#container1
+{
+  /* background-color:#D5D8DC  ; */
+  height: 200px;
+}
+.Pb-heading
+{
+    margin-left: 43%;
+    color:#873600;
+}
