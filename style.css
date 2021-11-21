@@ -32,22 +32,34 @@ body
 
 .active
 {
-  margin-left: 26%;
-  font-size: 30PX;
+  margin-left: 51rem;
+
+  font-size: 31PX;
+
   text-decoration: none;
   color: white;
+
 }
 
 
+.active1
+{
+  margin-left: 10rem;
+  text-decoration: none;
+  font-size: 31PX;
+  color: white;
+}
+
+.active2
+{
+  margin-left: 10rem;
+  text-decoration: none;
+  font-size: 31PX;
+  color: white;
 
 
 
-
-
-
-
-
-
+}
 
   .div1
   {
@@ -59,10 +71,12 @@ body
   .img1
   {
      max-width: 350px;
-     display: block;
+
      padding: 4rem;
      padding-top: 5rem;
-     margin-left:36%;;
+     margin-left:36%;
+     background-color:#FEF5E7 ;
+
 
   }
 
@@ -70,7 +84,7 @@ body
   {
       margin-left:43%;
       font-size: 40px;
-      /* color: #EDBB99 ; */
+
   }
 
 
@@ -93,7 +107,7 @@ body
 
   .white
   {
-     margin-left:30%;;
+     margin-left:32%;;
      margin-top: 10PX;
     font-size: 27px;
     color: #873600;
@@ -103,7 +117,7 @@ body
 
   .log1
   {
-    /* margin-left: 30%; */
+
     line-height: 30px;
     font-family:verdana;
     font-size: 20px;
@@ -119,17 +133,16 @@ body
    padding-left: 10px;
    height: 340px;
    float: left;
-   /* border-radius: 10px; */
-   /* border: 1px  solid black; */
+
 
   }
 .section2
 {
   float: left;
-  /* border: 1px solid black; */
+
   height: 340px;
   padding-left: 10px;
-  /* border-radius: 10px; */
+
   margin-left: 20px;
 }
 
@@ -140,9 +153,9 @@ body
 
 .log2
   {
-    /* margin-left: 30%; */
+
     line-height: 30px;
-   /* font-family:verdana; */
+
     font-size: 20px;
   }
 
@@ -177,12 +190,12 @@ body
 .blog1
 {
 
-  margin-left: 100px;
+  margin-left: 78%;
   background-color: #DC7633  ;
   padding:0.9rem;
   text-decoration: none;
   color: white;
-
+  text-align: center;
   border-top-right-radius: 0.9rem;
 }
 
