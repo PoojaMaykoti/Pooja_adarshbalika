@@ -207,9 +207,10 @@ body
 
     border-bottom-left-radius: 1rem;
     padding: 1rem;
-    padding-left: 40%
+    padding-left: 40rem;
 
   }
+
   .div4
   {
     color: white;
@@ -235,11 +236,11 @@ body
   }
   small
   {
-    margin-left: 45%;
+    margin-left: 48%;
   }
 #first-para
   {
-    margin-left: 30%;
+    margin-left: 32%;
     font-size: 20px;
 
   }
@@ -269,7 +270,7 @@ body
 }
 #container1
 {
-  /* background-color:#D5D8DC  ; */
+
   height: 200px;
 }
 .Pb-heading
