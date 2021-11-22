@@ -82,7 +82,7 @@ body
 
   .hero-heading
   {
-      margin-left:43%;
+      margin-left:38%;
       font-size: 40px;
 
   }
@@ -107,7 +107,7 @@ body
 
   .white
   {
-     margin-left:32%;;
+     margin-left:10%;;
      margin-top: 10PX;
     font-size: 27px;
     color: #873600;
@@ -264,6 +264,7 @@ body
        padding: 0.8rem;
         text-decoration: none;
         color: #DC7633;
+        background-color: white;
 
 }
 #container1
@@ -281,4 +282,30 @@ body
 {
  height: 250px;
   background-color: #EDBB99 ;
+  border: 1px solid brown;
+
+}
+#container4
+{
+  height: 250px;
+   background-color: #EDBB99 ;
+   border: 1px solid brown;
+}
+#container6
+{
+  height: 250px;
+   background-color: #EDBB99 ;
+   border: 1px solid brown;
+}
+#container8
+{
+  height: 250px;
+   background-color: #EDBB99 ;
+   border: 1px solid brown;
+}
+#container10
+{
+  height: 250px;
+   background-color: #EDBB99 ;
+   border: 1px solid brown;
 }
