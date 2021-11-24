@@ -4,60 +4,38 @@
 
 
 
-/* 
-body
-/* { */
-    /* background-color: #FEF5E7  ; */
-     /* font-family:georgia; */
-/* } */
 
 body
 {
     background-color:  #1C2833;
     
 }
+ 
 
-
-
-
-  /* .navigation */
-  /* { */
-    /* background-color:#DC7633  ; */
-    /* height: 99px; */
-     
-    /* border-bottom-left-radius: 1rem; */
-    /* padding: 1rem; */
-
-  /* } */
 
 
 
 .active
 {
-  font-size: 30px;
-  margin-left: 21%;
+  font-size: 28px;
+  margin-left: 27%;
   text-decoration: none;
   color: white;
   
 }
 
 
-.navigation
-{
-  margin-top: 46px;
-}
-
 .active1
 {
-  margin-left: 7%;
-  font-size: 30px;
+  margin-left:7%;
+  font-size: 28px;
   text-decoration: none;
   color: white;
 }
 .active2
 {
-  margin-left: 35%;
-  font-size: 30px;
+  margin-left: 20%;
+  font-size: 28px;
   text-decoration: none;
   color: white;
 
@@ -71,6 +49,13 @@ h2
    margin-top:50px;
    font-size: 30px;
 }
+
+h1
+{
+  margin-left:21%;
+  color: white;
+}
+
 
 .container
 {
@@ -109,6 +94,78 @@ h2
   border-radius: 8px;
 
 }
+.img1
+{
+   height: 10%;
+   width: 10%;
+   margin-left: 17%;
+   /* margin-bottom: 20px; */
+  /* margin-top: 10px; */
+ 
+  
+} 
+
+.container1
+{
+  border: 1px solid white;
+  height: 180px;
+  width: 30%;
+  margin-left: 21%;
+  float: left;
+  border-radius: 10px;
+
+}
+
+.container2
+{
+  border: 1px solid white;
+  height: 180px;
+  width: 30%;
+  margin-left: 53%;
+  border-radius: 10px;
+  /* float: left; */
+}
+/* .div5 a :hover
+{
+  color: blue;
+} */
+
+.container3
+{
+  border: 1px solid white;
+  height: 180px;
+  width: 30%;
+  margin-right: 17%;
+  border-radius: 10px;
+   float: right;
+}
+.container4
+{
+  border: 1px solid white;
+  height: 180px;
+  width: 30%;
+  
+  border-radius: 10px;
+  margin-left:21%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* 
