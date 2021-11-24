@@ -14,6 +14,7 @@ body
 body
 {
     background-color:  #1C2833;
+    
 }
 
 
@@ -33,7 +34,7 @@ body
 
 .active
 {
-  font-size: 34px;
+  font-size: 30px;
   margin-left: 21%;
   text-decoration: none;
   color: white;
@@ -43,37 +44,71 @@ body
 
 .navigation
 {
-  margin-top: 52px;
+  margin-top: 46px;
 }
 
 .active1
 {
   margin-left: 7%;
-  font-size: 34px;
+  font-size: 30px;
   text-decoration: none;
   color: white;
 }
 .active2
 {
   margin-left: 35%;
-  font-size: 34px;
+  font-size: 30px;
   text-decoration: none;
   color: white;
 
 }
 
+h2
+{
+   margin-left:19%;
+   color:#c3dae9
+   ;
+   margin-top:50px;
+   font-size: 30px;
+}
+
+.container
+{
+  margin-left:19%;
+  color: white;
+  font-size: 20px;
+}
+
+.twitter-icon
+{
+  margin-top: 30px;
+  margin-left:21%;
+  height: 30px;
+  width: 30px;
+  border-radius: 8px;
+}
 
 
 
+.github-icon
+{
+  height: 30px;
+  width: 30px;
+  margin-top: 30px;
+  margin-left: 40px;
+  border-radius: 8px;
 
+}
 
+.linkdin-icon
+{
+  height: 30px;
+  width: 30px;
+  margin-top: 30px;
+  margin-left: 40px;
+  border-radius: 8px;
 
-
-
-
-
-
-
+}
 
 
 /* 
@@ -81,7 +116,7 @@ body
 {
   margin-left: 10rem;
   text-decoration: none;
-  font-size: 31PX; */ */
+  font-size: 31PX; */ 
   /* color: white;
 }
 
@@ -228,8 +263,8 @@ body
       margin-left: 30%;
       line-height: 30px;
      /* font-family:verdana;/ */
-       font-size: 20px;
-  } */
+       /* font-size: 20px; */
+  /* }  */
 
 
 /* .section3 */
@@ -261,9 +296,9 @@ body
     padding: 1rem;
     /* padding-left: 20rem; */
 
-  }
+  /* } */
 
-  .div4
+  /* .div4
   {
     color: white;
     font-size: 20px;
@@ -281,7 +316,7 @@ body
   .span2
   {
     color: #873600;
-  } */
+  } */ 
  /* .Ps-heading
   {
     margin-left: 43%;
@@ -361,4 +396,4 @@ body
   height: 250px;
    background-color: #EDBB99 ;
    border: 1px solid brown;
-} */ */
+} */ 
