@@ -13,7 +13,10 @@ body
 }
  
 
-
+.para
+{
+  margin-left:13px;
+}
 
 
 .active
@@ -28,14 +31,14 @@ body
 
 .active1
 {
-  margin-left:7%;
+  margin-left:10%;
   font-size: 26px;
   text-decoration: none;
   color: white;
 }
 .active2
 {
-  margin-left: 20%;
+  margin-left: 32%;
   font-size: 26px;
   text-decoration: none;
   color: white;
@@ -44,7 +47,7 @@ body
 
 h2
 {
-   margin-left:19%;
+   margin-left:20%;
    color:#c3dae9
    ;
    margin-top:50px;
@@ -304,9 +307,24 @@ a:hover{
 }
 
 
+.blog-container1
+{
+  border: 1px solid white;
+  border-radius:10px;
+  height: 27%;
+  width: 60%;
+  margin-left: 20%;
+}
 
-
-
+.blog-container2
+{
+  border: 1px solid white;
+  border-radius:10px;
+  height: 27%;
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 30px;
+}
 
 
 
