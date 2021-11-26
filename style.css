@@ -7,15 +7,24 @@
 
 body
 {
-    background-color:  
-    #1C2833;
-    
+    background-color:#1C2833;
+   /* font-family:  system-ui; */
+   /* font-family: "averta semibold"; */
+   /* font-family:  Gill Sans Extrabold; */
+   /* font-family: ui-serif; */
+   /* font-family: ui-sans-serif; */
+   /* font-family: fangsong; */
+
+
+
+   
 }
  
 
 .para
 {
   margin-left:13px;
+  
 }
 
 
