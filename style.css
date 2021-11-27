@@ -7,7 +7,7 @@
 
 body
 {
-    background-color:#f7eae9;
+    background-color:#f7f0f0;
    font-family: Segoe UI ;
 
 
@@ -52,7 +52,7 @@ body
 h2
 {
    margin-left:20%;
-   color:#C0392B;
+   color:#ca7a44;
    margin-top:100px;
    font-size: 33px;
 }
@@ -323,6 +323,7 @@ a:hover{
   height: 27%;
   width: 60%;
   margin-left: 20%;
+  border: 1px solid black;
 }
 
 .blog-container2
@@ -333,6 +334,7 @@ a:hover{
   width: 60%;
   margin-left: 20%;
   margin-top: 30px;
+  border: 1px solid black;
 }
 
 
