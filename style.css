@@ -150,7 +150,7 @@ h2
 
 .container1
 {
-  border: 3px solid #2E4053;
+  border: 4px solid #2E4053;
   height: 180px;
   width: 30%;
   margin-left: 20%;
@@ -162,7 +162,7 @@ h2
 
 .container2
 {
-  border: 3px solid #2E4053;
+  border: 4px solid #2E4053;
   height: 180px;
   width: 30%;
   margin-left: 52%;
@@ -183,7 +183,7 @@ h2
 
 .container3
 {
-      border: 3px solid #2E4053;
+      border: 4px solid #2E4053;
       border-radius: 10px;
       height: 180px;
       width: 30%;
@@ -198,7 +198,7 @@ h2
 
 .container4
 {
-      border: 3px solid #2E4053;
+      border: 4px solid #2E4053;
       border-radius: 10px;
       height: 180px;
       width: 30%;
@@ -213,7 +213,7 @@ h2
 .container5
 {
     
-  border: 3px solid #2E4053;
+  border: 4px solid #2E4053;
   border-radius: 10px;
   height: 180px;
    width: 30%;
@@ -227,7 +227,7 @@ h2
 
 .container6
 {
-  border: 3px solid #2E4053;
+  border: 4px solid #2E4053;
   border-radius: 10px;
   height: 180px;
    width: 30%;
@@ -239,7 +239,7 @@ h2
 .container7
 
 {
-  border: 3px solid #2E4053;
+  border: 4px solid #2E4053;
   border-radius: 10px;
   height: 220px;
   width: 30%;
@@ -264,7 +264,7 @@ h2
 
 .container8
 {
-  border: 3px solid #2E4053;
+  border: 4px solid #2E4053;
   border-radius: 10px;
   height: 220px;
   width: 30%;
@@ -276,7 +276,7 @@ h2
 
 .container9
 {
-  border: 3px solid #2E4053;
+  border: 4px solid #2E4053;
   border-radius: 10px;
   height: 200px;
   width: 30%;
@@ -292,7 +292,7 @@ h2
 {
   height: 200px;
   width: 30%;
-  border: 3px solid #2E4053;
+  border: 4px solid #2E4053;
   margin-left: 52%;
   margin-top: 20px;
   border-radius: 10px;
@@ -487,7 +487,7 @@ a:hover{
  {
   height: 200px;
   width: 30%;
-  border: 3px solid #2E4053;
+  border: 4px solid #2E4053;
   
   margin-top: 20px;
   border-radius: 10px;
@@ -502,7 +502,7 @@ a:hover{
   height: 200px;
   width: 30%;
   
-  border: 3px solid #2E4053;
+  border: 4px solid #2E4053;
   /* margin-right: 10px; */
   margin-left: 300px;
   border-radius: 10px;
@@ -518,7 +518,7 @@ a:hover{
    height:45%;
    width: 35%;
    margin-left: 35%;
-   margin-top: 60px;
+   margin-top: 90px;
    border: 1px solid black;
    border-radius: 60px;
    /* background-color:#171923 ; */
