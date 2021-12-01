@@ -150,7 +150,7 @@ h2
 
 .container1
 {
-  border: 4px solid #2E4053;
+  border: 5px solid #2E4053;
   height: 180px;
   width: 30%;
   margin-left: 20%;
@@ -162,7 +162,7 @@ h2
 
 .container2
 {
-  border: 4px solid #2E4053;
+  border: 5px solid #2E4053;
   height: 180px;
   width: 30%;
   margin-left: 52%;
@@ -183,7 +183,7 @@ h2
 
 .container3
 {
-      border: 4px solid #2E4053;
+      border: 5px solid #2E4053;
       border-radius: 10px;
       height: 180px;
       width: 30%;
@@ -198,7 +198,7 @@ h2
 
 .container4
 {
-      border: 4px solid #2E4053;
+      border: 5px solid #2E4053;
       border-radius: 10px;
       height: 180px;
       width: 30%;
@@ -213,21 +213,21 @@ h2
 .container5
 {
     
-  border: 4px solid #2E4053;
+  border: 5px solid #2E4053;
   border-radius: 10px;
   height: 180px;
    width: 30%;
   
    margin-top: 20px;
    float:right;
-   margin-right: 18%;
+   margin-right: 17.4%;
    /* background-color: white; */
 
 }
 
 .container6
 {
-  border: 4px solid #2E4053;
+  border: 5px solid #2E4053;
   border-radius: 10px;
   height: 180px;
    width: 30%;
@@ -239,13 +239,13 @@ h2
 .container7
 
 {
-  border: 4px solid #2E4053;
+  border: 5px solid #2E4053;
   border-radius: 10px;
   height: 220px;
   width: 30%;
   margin-top: 20px;
   float: right;
-  margin-right: 18%;
+  margin-right: 17.5%;
   /* background-color: white; */
 }
 
@@ -264,7 +264,7 @@ h2
 
 .container8
 {
-  border: 4px solid #2E4053;
+  border: 5px solid #2E4053;
   border-radius: 10px;
   height: 220px;
   width: 30%;
@@ -276,7 +276,7 @@ h2
 
 .container9
 {
-  border: 4px solid #2E4053;
+  border: 5px solid #2E4053;
   border-radius: 10px;
   height: 200px;
   width: 30%;
@@ -292,8 +292,8 @@ h2
 {
   height: 200px;
   width: 30%;
-  border: 4px solid #2E4053;
-  margin-left: 52%;
+  border: 5px solid #2E4053;
+  margin-left: 51.6%;
   margin-top: 20px;
   border-radius: 10px;
   
@@ -487,7 +487,7 @@ a:hover{
  {
   height: 200px;
   width: 30%;
-  border: 4px solid #2E4053;
+  border: 5px solid #2E4053;
   
   margin-top: 20px;
   border-radius: 10px;
@@ -502,9 +502,9 @@ a:hover{
   height: 200px;
   width: 30%;
   
-  border: 4px solid #2E4053;
+  border: 5px solid #2E4053;
   /* margin-right: 10px; */
-  margin-left: 300px;
+  margin-left: 294px;
   border-radius: 10px;
   margin-top: 20px;
   
