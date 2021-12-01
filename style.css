@@ -215,8 +215,8 @@ h2
     
   border: 5px solid #2E4053;
   border-radius: 10px;
-  height: 180px;
-   width: 30%;
+  height: 187px;
+  width: 30%;
   
    margin-top: 20px;
    float:right;
@@ -244,8 +244,8 @@ h2
   height: 220px;
   width: 30%;
   margin-top: 20px;
-  float: right;
-  margin-right: 17.5%;
+  float:right;
+  margin-right: 18.1%;
   /* background-color: white; */
 }
 
@@ -268,10 +268,10 @@ h2
   border-radius: 10px;
   height: 220px;
   width: 30%;
-  margin-left: 20%;
+  margin-left:19.5%;
   margin-top: 15px;
   
-  /* background-color: white; */
+  /* margin-right: 20px; */
 }
 
 .container9
@@ -280,7 +280,7 @@ h2
   border-radius: 10px;
   height: 200px;
   width: 30%;
-  margin-left: 20%;
+  margin-left:20%;
   margin-top: 20px;
   float: left;
   /* background-color: white; */
@@ -504,7 +504,7 @@ a:hover{
   
   border: 5px solid #2E4053;
   /* margin-right: 10px; */
-  margin-left: 294px;
+  margin-left: 292px;
   border-radius: 10px;
   margin-top: 20px;
   
