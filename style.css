@@ -434,21 +434,21 @@ a:hover{
 
 
 
-
-.div2
+ .div2
 {
   margin-top: 50px;
   color: white;
   padding: 2rem;
   height:150%;
+
   /* border: 1px solid white; */
-  margin-left: 21%;
-  margin-right: 10%;
+  margin-left: 20%;
+  margin-right: 13%;
   font-size:24px;
   border-radius: 20px;
   /* background-color: #171923; */
   
-} 
+}  
 
 .heading1
 {
@@ -517,7 +517,7 @@ a:hover{
  {
    height:45%;
    width: 35%;
-   margin-left: 35%;
+   margin-left: 30%;
    margin-top: 90px;
    border: 1px solid black;
    border-radius: 60px;
