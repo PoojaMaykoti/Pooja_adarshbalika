@@ -215,10 +215,10 @@ h2
     
   border: 5px solid #2E4053;
   border-radius: 10px;
-  height: 187px;
+  height: 188px;
   width: 30%;
   
-   margin-top: 20px;
+   margin-top: 10px;
    float:right;
    margin-right: 17.4%;
    /* background-color: white; */
@@ -504,7 +504,7 @@ a:hover{
   
   border: 5px solid #2E4053;
   /* margin-right: 10px; */
-  margin-left: 290px;
+  margin-left: 270px;
   border-radius: 10px;
   margin-top: 20px;
   
