@@ -215,12 +215,12 @@ h2
     
   border: 5px solid #2E4053;
   border-radius: 10px;
-  height: 189px;
+  height: 200px;
   width: 30%;
-  
+  margin-left: 20px;
    margin-top: 10px;
-   float:right;
-   margin-right: 17.4%;
+   float:left;
+   /* margin-right: 17%; */
    /* background-color: white; */
 
 }
@@ -241,11 +241,11 @@ h2
 {
   border: 5px solid #2E4053;
   border-radius: 10px;
-  height: 220px;
+  height: 200px;
   width: 30%;
   margin-top: 20px;
   float:right;
-  margin-right: 18.1%;
+  margin-right: 17.5%;
   /* background-color: white; */
 }
 
@@ -270,7 +270,7 @@ h2
   width: 30%;
   margin-left:19.5%;
   margin-top: 15px;
-  
+  float: left;
   /* margin-right: 20px; */
 }
 
@@ -294,7 +294,7 @@ h2
   width: 30%;
   border: 5px solid #2E4053;
   margin-left: 51.6%;
-  margin-top: 20px;
+  margin-top: 30px;
   border-radius: 10px;
   
 }
