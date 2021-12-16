@@ -151,7 +151,7 @@ h2
 .container1
 {
   border: 5px solid #2E4053;
-  height: 180px;
+  height: 260px;
   width: 30%;
   margin-left: 20%;
   float: left;
@@ -163,7 +163,7 @@ h2
 .container2
 {
   border: 5px solid #2E4053;
-  height: 180px;
+  height: 260px;
   width: 30%;
   margin-left: 52%;
   border-radius: 10px;
@@ -185,7 +185,7 @@ h2
 {
       border: 5px solid #2E4053;
       border-radius: 10px;
-      height: 180px;
+      height: 260px;
       width: 30%;
      margin-left:20%;
      /* background-color: white; */
@@ -200,7 +200,7 @@ h2
 {
       border: 5px solid #2E4053;
       border-radius: 10px;
-      height: 180px;
+      height: 260px;
       width: 30%;
       margin-left: 52%;
      
@@ -215,7 +215,7 @@ h2
     
   border: 5px solid #2E4053;
   border-radius: 10px;
-  height: 220px;
+  height: 280px;
   width: 30%;
   margin-left: 20px;
    margin-top: 10px;
@@ -229,7 +229,7 @@ h2
 {
   border: 5px solid #2E4053;
   border-radius: 10px;
-  height: 180px;
+  height: 260px;
    width: 30%;
    margin-left: 20%;
    margin-top: 20px;
@@ -241,12 +241,12 @@ h2
 {
   border: 5px solid #2E4053;
   border-radius: 10px;
-  height: 200px;
+  height: 250px;
   width: 30%;
   margin-top: 20px;
   float:right;
   margin-right: 17.5%;
-  /* background-color: white; */
+ 
 }
 
 
@@ -259,14 +259,33 @@ h2
 
 
 
+#active-contianer2
+{
+  
+ margin-left: 60px;
+  font-size: 20px;
 
+  color: white;
+  border: 1px solid #2E4053;
+  padding:0.5rem;
+  border-radius: 10px;
+}
 
-
+#active-contianer3
+{
+  /* padding-left: 30px; */
+  font-size: 20px;
+  border: 1px solid #2E4053;
+  border-radius: 10px;
+  margin-left: 30px;
+  color: white;
+  padding:0.5rem;
+}
 .container8
 {
   border: 5px solid #2E4053;
   border-radius: 10px;
-  height: 220px;
+  height: 280px;
   width: 30%;
   margin-left:19.5%;
   margin-top: 15px;
@@ -278,7 +297,7 @@ h2
 {
   border: 5px solid #2E4053;
   border-radius: 10px;
-  height: 200px;
+  height: 300px;
   width: 30%;
   margin-left:20%;
   margin-top: 20px;
@@ -290,7 +309,7 @@ h2
 
 .container10
 {
-  height: 200px;
+  height: 270px;
   width: 30%;
   border: 5px solid #2E4053;
   margin-left: 51.6%;
@@ -495,7 +514,7 @@ a:hover{
 
  .container11
  {
-  height: 200px;
+  height: 280px;
   width: 30%;
   border: 5px solid #2E4053;
   
@@ -515,14 +534,14 @@ a:hover{
 
  .container12
  {
-  height: 200px;
+  height: 260px;
   width: 30%;
   
   border: 5px solid #2E4053;
   /* margin-right: 10px; */
   margin-left: 260px;
   border-radius: 10px;
-  margin-top: 20px;
+  margin-top: 30px;
   
  
   
